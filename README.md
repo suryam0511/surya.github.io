@@ -14,7 +14,7 @@ A modern, responsive portfolio website showcasing cloud infrastructure expertise
 
 ## 🌐 Live Demo
 
-Visit the live portfolio: [[https://your-username.github.io](https://your-username.github.io)](https://suryam0511.github.io/my_portfolio/)
+Visit the live portfolio: (https://suryam0511.github.io/my_portfolio/)
 
 ## 📁 Project Structure
 
